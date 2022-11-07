@@ -1,10 +1,8 @@
 <a href="https://www.buymeacoffee.com/mainajm" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=6PC_hz5TMYY
-" target="_blank"><img src="http://img.youtube.com/vi/6PC_hz5TMYY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="#">![calc](https://user-images.githubusercontent.com/75726095/200289767-bae428ed-6b4a-4e7b-8cbe-9fabe1135e7f.png)</a>
 
-### Click the above image to view the YouTube tutorial
+### Click the above image to view demo
 
 # Getting Started with Create React App
 
